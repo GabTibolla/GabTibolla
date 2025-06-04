@@ -10,9 +10,9 @@
 ##
 
 
-  - 🔭 Atualmente Trabalhando na empresa <b>Witime</b> como desenvolvedor <b>Backend</b>
-  - 🌱 Trabalhando com C#, MySQL, SQL Server
-  - 💎 Experiência com VB.Net, Dart (Flutter), brevemente em Java, React Native, React/Next.js.
+  - 🔭 Atualmente Trabalhando na empresa <b>Witime</b> como desenvolvedor.
+  - 🌱 Trabalhando com C#, SQLite e MSSQL Server.
+  - 💎 Experiência com VB.Net, Dart (Flutter), ASP.NET Core Razor Pages, JQuery.
 
 
 ##
