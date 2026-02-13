@@ -2,19 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gabriel!;" />
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabTibolla&show_icons=true&theme=dracula" alt="Gabriel Tibolla GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabTibolla&theme=dracula" alt="Top Langs" />
-</p>
-
 ##
-
-
   - 🔭 Atualmente Trabalhando na empresa <b>Witime</b> como desenvolvedor.
   - 🌱 Trabalhando com C#, SQLite e MSSQL Server.
   - 💎 Experiência com VB.Net, Dart (Flutter), ASP.NET Core Razor Pages, JQuery.
-
-
 ##
 
 <h2 align="center" >⚒️ <b>Linguagens-Frameworks-Ferramentas</b> ⚒️</h2>
